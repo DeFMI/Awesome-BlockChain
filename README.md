@@ -54,6 +54,14 @@
 
 ## 智能合约虚拟机
 - [Technical Overview of the Common Language Runtime](http://csc.lsu.edu/~gb/csc7700/Reading/CLR.pdf)
+- [Py-EVM Architecture](https://py-evm.readthedocs.io/en/latest/guides/index.html)
+- [EVM Awesome List](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List)
+- [EVM Design Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine)
+- [EVM指令集与操作码解释器](https://www.jianshu.com/p/7ee4762b56f7)
+- [深入了解以太坊虚拟机](https://www.jianshu.com/p/1969f3761208)
+- [Ethereum's VM in Javascript](https://github.com/ethereumjs/ethereumjs-vm)
+- [以太坊源码分析报告]()
+- [ethereum evm illustrated]()
 
 ## 零知识证明
 - [Awesome Zero Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
